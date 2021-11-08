@@ -23,6 +23,7 @@ export function HeaderSlide() {
         }
     }
 `)
+    
     const { booking, carslide, phonenumber, titleslide, inputtitleslide, wheninput, dropinput, pickup, buttominput } = data.alldata.slides[0]
     return (
         <div>
